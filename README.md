@@ -24,7 +24,7 @@ Note : L’application Webfauna (preview) est installée en parallèle de l’
 
 <img src="images/qrcode.png" width="200"/>
 
-https://bit.ly/3Wd5BoT
+https://bit.ly/41mKCEq
 
 2. Un message de mise en garde peut s'afficher, confirmer le téléchargement "Télécharger quand même". Ce message s'affiche uniquement car le fichier est un exécutable mais il ne comporte aucun danger.
 
